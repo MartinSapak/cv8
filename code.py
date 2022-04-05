@@ -6,3 +6,6 @@ working_array[working_array > 10] = 0
 value = working_array.sum()
 
 print(f"Pole: {working_array}, Celková hodnota pole: {value}")
+
+
+
